@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap4-starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 workflow starter pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap4",
+    "glup"
+  ],
+  "author": "Nitin Pradeep Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
